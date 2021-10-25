@@ -1,2 +1,1 @@
-# Text-Editor-GUI-C-CLI-
-# Text-Editor-C-CLI
+# Text-Editor-GUI-CPLUSPLUS-CLI-
