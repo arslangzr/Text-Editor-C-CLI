@@ -15,19 +15,48 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MyForm.cpp">
+    <ClCompile Include="MyForm1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MyForm1.cpp">
+    <ClCompile Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\MyForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\MyForm2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\About.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MyForm.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="MyForm1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\MyForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\MyForm2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\About.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\command line text editor c++\cmd-line-text-editor-master\document.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MyForm1.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\MyForm.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\MyForm2.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\..\..\..\jamal%27s programming\Data structures &amp; Algorithms (lab)\mid project\Project4\Project4\About.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>
